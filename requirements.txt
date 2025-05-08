@@ -1,0 +1,7 @@
+streamlit
+pandas
+altair
+pydeck
+matplotlib
+plotly
+squarify
